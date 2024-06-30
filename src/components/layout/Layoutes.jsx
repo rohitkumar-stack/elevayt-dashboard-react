@@ -37,9 +37,6 @@ const Layoutes = ({ children }) => {
                     )}
                 </div>
 
-                <div className="Recommended-outerline">
-                    <p>Recommended</p>
-                </div>
                 <Menu defaultSelectedKeys={["1"]}>
                     {menuItems.map((item) => (
                         <Menu.Item key={item.key} icon={item.icon}>
