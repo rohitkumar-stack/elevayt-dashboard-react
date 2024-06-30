@@ -1,0 +1,116 @@
+{
+    "crimeList":[
+       {
+          "id":1,
+          "firyear":"0038 / 2024",
+          "policeStation":"MODEL TOWN,NORTH WEST ,DELHI",
+          "firDate":"09-05-2024",
+          "socDate":"09-05-2024",
+          "socid":[
+             {
+                "id":3456,
+                "sid":"XXXXXXXXXXX3456",
+                "photography":[
+                   {
+                      "name":"Image 1",
+                      "hashValue":"1cdf0f939496f8771f32d5ef347ec3fec25952a1aef6ee737247423f9c2cfddd",
+                      "uploadedDate":"09-05-2024",
+                      "image":"./image3.jpg"
+                   },
+                   {
+                      "name":"Image 1",
+                      "hashValue":"4d784cc0ef08414d16ea850e4761dcbf083687d28d15ab3d31e97b4d66154f0a",
+                      "uploadedDate":"09-05-2024",
+                      "image":"./image4.jpg"
+                   },
+                   {
+                      "name":"Image 1",
+                      "hashValue":"70c42e584a4ed0cce5dd611cddfd024db596683734f0e7385daa70a717fa8884",
+                      "uploadedDate":"09-05-2024",
+                      "image":"./image3.jpg"
+                   }
+                ],
+                "videography":[
+                   {
+                      "name":"video 1",
+                      "hashValue":"85c9a7080e46f06f7885ab3b3c4a31e0368965b44445c443e88e10627dc85146",
+                      "uploadedDate":"09-05-2024",
+                      "video":"https://www.w3schools.com/html/mov_bbb.mp4"
+                   }
+                ],
+                "witness":[
+                   {
+                      "name":"Rohan sharma",
+                      "gender":"male",
+                      "fathersname":"Rpbin Sharma",
+                      "address":"Model Town, North west, Delhi",
+                      "city":"North West",
+                      "pincode":110033,
+                      "wphotohash":"4149b87da059cb2c7d025ad69df1b38d62333c066013a4b1fb5b3c0893cbd41a",
+                      "image":"./dummy-user.png"
+                   },
+                   {
+                      "name":"Amit Gujjar",
+                      "gender":"male",
+                      "fathersname":"Kartan Singh Gujjar",
+                      "address":"Model Town, North west, Delhi",
+                      "city":"North West",
+                      "pincode":110033,
+                      "wphotohash":"4149b87da059cb2c7d025ad69df1b38d62333c066013a4b1fb5b3c0893cbd41a",
+                      "image":"./dummy-user.png"
+                   }
+                ],
+                "ioofficer":[
+                   {
+                      "iohashValue":"4149b87da059cb2c7d025ad69df1b38d62333c066013a4b1fb5b3c0893cbd41a",
+                      "image":"./dummy-user.png"
+                   },
+                   {
+                      "iohashValue":"4149b87da059cb2c7d025ad69df1b38d62333c066013a4b1fb5b3c0893cbd41a",
+                      "image":"./dummy-user.png"
+                   }
+                ]
+             },
+             {
+                "id":3457,
+                "sid":"XXXXXXXXXXX3457",
+                "name":"Deepak"
+             },
+             {
+                "id":3458,
+                "sid":"XXXXXXXXXXX3458"
+             }
+          ]
+       },
+       {
+          "id":2,
+          "firyear":"0039 / 2024",
+          "policeStation":"MODEL TOWN,NORTH WEST ,DELHI",
+          "firDate":"09-05-2024",
+          "socDate":"09-05-2024",
+          "socid":[
+             {
+                "id":3459,
+                "sid":"XXXXXXXXXXX3459"
+             },
+             {
+                "id":3460,
+                "sid":"XXXXXXXXXXX3460"
+             }
+          ]
+       },
+       {
+          "id":3,
+          "firyear":"0040 / 2024",
+          "policeStation":"MODEL TOWN,NORTH WEST ,DELHI",
+          "firDate":"09-05-2024",
+          "socDate":"09-05-2024",
+          "socid":[
+             {
+                "id":3461,
+                "sid":"XXXXXXXXXXX3461"
+             }
+          ]
+       }
+    ]
+ }

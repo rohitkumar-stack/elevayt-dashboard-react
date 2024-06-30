@@ -1,0 +1,87 @@
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  .profile-header {
+      flex-direction: column;
+      align-items: flex-start;
+  }
+  .profile-outerline {
+      text-align: center;
+  }
+  .profile-image {
+      width: 50px;
+      height: 50px; 
+  }
+  .profile-show-title,
+  .profile-BlueCheck {
+      margin-right: 0;
+      margin-bottom: 5px;
+  }
+  .content-justify {
+      text-align: center;
+  }
+  .vl {
+      border-left: none;
+      border-top: 1px solid #e4e6e7;
+      margin-top: 10px;
+  }
+  .ml-2 {
+      margin-left: 0;
+  }
+  .box-bg {
+      width: auto;
+  }
+  .star-value-data {
+      margin-left: 10px;
+  }
+  .outerline-qualified {
+      margin: 10px 0;
+      width: 100%;
+      text-align: center;
+  }
+  .notes-outerline {
+      text-align: center;
+      float: none;
+  }
+  .Add-notes-title {
+      display: block;
+      margin-top: 10px;
+  }
+  .javascript-outerline {
+      width: 100%;
+      margin-bottom: 10px;
+  }
+  .bell-logo {
+      font-size: 18px;
+      margin: 1px;
+  }
+  .btn-primary,
+  .btn-primary:hover {
+      color: #0f0e0e;
+      background-color: #f1f1f1 !important;
+      border-color: #f1f1f1 !important;
+  }
+  .user-name {
+      font-size: 10px;
+      margin: 3px;
+  }
+  .Candidates-heading {
+      font-size: 14px;
+      margin-left: 3px;
+  }
+  .tabs-modify .nav-link {
+      font-size: 12px;
+      padding: 8px 10px;
+  }
+  ul.ant-menu-overflow.ant-menu.ant-menu-root.ant-menu-horizontal.ant-menu-light.Menu-submenu.css-dev-only-do-not-override-m4timi {
+      margin-top: -10px;
+      font-size: 10px;
+  }
+  .dowload-box {
+      width: 30px;
+      height: 30px;
+      margin-left: 10px;
+  }
+  .content-justify {
+      margin-left: 20px;
+  }
+}

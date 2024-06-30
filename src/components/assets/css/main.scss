@@ -1,0 +1,390 @@
+.bell-logo {
+  font-size: 22px;
+  margin: 2px;
+  float: right;
+  cursor: pointer;
+}
+
+button.ant-btn.css-dev-only-do-not-override-m4timi.ant-btn-text.ant-btn-icon-only:focus {
+  outline: none;
+}
+
+.btn-primary {
+  color: #0f0e0e;
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+.btn-primary:hover {
+  color: #0f0e0e !important;
+  border-color: none !important;
+}
+.dropdown-toggle::after {
+  display: none !important;
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0.3em solid;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0;
+  border-left: 0.3em solid transparent;
+}
+svg.user-profile-icon {
+  font-size: 24px;
+}
+.user-name {
+  font-size: 12px;
+  float: right;
+  margin: 5px;
+  font-family: sans-serif;
+  font-weight: 500;
+  color: #010f25bd;
+}
+.Candidates-heading {
+  font-size: 16px;
+  margin-left: 6px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #010f25bd;
+}
+
+/* Dashboard.css */
+.tabs-modify .nav-link {
+  color: #010f25bd;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 10px 15px; 
+  border: none;
+  background: none;
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.nav-tabs {
+  border-bottom: none !important;
+}
+
+.tabs-modify .nav-link:hover {
+  text-decoration: underline;
+}
+
+.tabs-modify .nav-link:focus {
+  outline: none; 
+}
+
+.tabs-modify .nav-link.active {
+  color: rgb(34, 19, 170);
+  text-decoration: underline; 
+}
+
+.tabs-modify-content {
+  border-top: none; 
+}
+
+ul.ant-menu-overflow.ant-menu.ant-menu-root.ant-menu-horizontal.ant-menu-light.Menu-submenu.css-dev-only-do-not-override-m4timi {
+  margin-top: -14px;
+  font-size: 12px;
+  color: #010f25bd;
+  font-family: sans-serif;
+  font-weight: 600;
+  background-color: transparent;
+}
+span.anticon.anticon-down {
+  font-size: 12px !important;
+}
+p.filters-text {
+  font-size: 12px;
+  color: #010f25bd;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+svg.filter-icon {
+  font-size: 14px;
+  color: rgba(1, 15, 37, 0.7411764706);
+  font-family: sans-serif;
+  font-weight: 600;
+}
+svg.dowload-box-icon {
+  font-size: 20px;
+  color: #010f25bd;
+  cursor: pointer;
+}
+.dowload-box {
+  border: 1px solid #dbd4d4;
+  padding: 6px;
+  width: 38px;
+  cursor: pointer;
+  margin-left: 14px;
+  height: 36px;
+  background-color: rgb(250, 250, 250);
+  border-radius: 5px;
+}
+p.show-profile-title {
+  font-size: 14px;
+  color: #010f25bd;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+img.profile-image {
+  width: 80px;
+  height: 80px;
+  border: 1px solid #ede8e8;
+  border-radius: 50px;
+}
+img.profile-BlueCheck {
+  width: 16px;
+  height: 16px;
+  margin-top: -8px;
+  border: 1px solid #ede8e8;
+  border-radius: 50px;
+}
+.content-justify {
+  margin-left: 50px;
+}
+.profile-header {
+  display: flex;
+  align-items: center;
+}
+.profile-show-title {
+  font-size: 13px;
+  font-family: sans-serif;
+  margin-right: 6px;
+  color: #010f25bd;
+  font-weight: 600;
+}
+.profile-BlueCheck {
+  width: 20px; 
+  height: 20px;
+}
+p.technical-title {
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #010f25bd;
+}
+span.gmail-text {
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #010f25bd;
+}
+.technical-title-outer {
+  margin-top: -4px;
+}
+.gmail-outer {
+  margin-top: -13px;
+}
+svg.phone-icon {
+  font-size: 13px;
+}
+span.phone-text {
+  font-size: 13px;
+}
+svg.gmail-icon {
+  font-size: 13px;
+}
+p.View-resume {
+  margin-top: 14px;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  color: #010f25bd;
+  text-decoration: underline;
+  text-underline-position: auto;
+}
+.vl {
+  border-left: 1px solid #e4e6e7;
+  display: flex;
+  align-items: center;
+}
+p.Appllied-title {
+  font-size: 13px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #010f25bd;
+}
+p.Exp-title {
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-top: -12px;
+  color: #010f25bd;
+}
+p.Match-title {
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-top: -12px;
+  color: #010f25bd;
+}
+.box-bg {
+  border: 1px solid rgba(62, 217, 117, 0.7019607843);
+  padding: 5px;
+  width: 74px;
+  border-radius: 28px;
+  text-align: center;
+  font-size: 14px;
+  height: 30px;
+  background-color: #d9d9d9;
+  color: #15a335;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+p.View-details {
+  margin-top: 14px;
+  font-size: 12px;
+  font-family: sans-serif;
+  margin-left: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  color: #010f25bd;
+  text-decoration: underline;
+  text-underline-position: auto;
+}
+p.Candidate-title {
+  font-size: 13px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #010f25bd;
+}
+.notes-outerline {
+  float: right;
+  cursor: pointer;
+}
+span.Add-notes-title {
+  font-size: 13px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: rgb(34, 19, 170);;
+}
+svg.Add-notes-title {
+  font-size: 13px;
+  color: rgb(34, 19, 170);
+}
+.javascript-outerline {
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(247 251 249 / 0%);
+  padding: 14px;
+  width: 156px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 13px;
+  height: 40px;
+  background-color: #d9d9d930;
+  color: rgba(1, 15, 37, 0.7411764706);
+  font-family: sans-serif;
+  font-weight: 600;
+}
+.javascript-outerline p {
+  margin: 0 10px 0 0; 
+}
+img.javascript-BlueCheck {
+  width: 16px;
+  height: 16px;
+  margin-top: 4px;
+  border: 1px solid #ede8e8;
+  border-radius: 50px;
+}
+p.javascript-title {
+  margin-left: 5px;
+  font-size: 12px;
+  margin-top: 3px;
+}
+p.star-value {
+  font-size: 12px;
+  margin-top: 4px;
+  color: green;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+svg.star-icon {
+  font-size: 12px;
+}
+.value-outerline {
+  border: 1px solid rgba(247, 251, 249, 0);
+  padding: 8px;
+  width: 47px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 13px;
+  margin-left: 8px;
+  height: 40px;
+  background-color: rgba(217, 217, 217, 0.1882352941);
+  color: rgba(1, 15, 37, 0.7411764706);
+  font-family: sans-serif;
+  font-weight: 600;
+}
+p.star-value-data {
+  font-size: 12px;
+  margin-top: 4px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+.outerline-qualified {
+  border: 1px solid rgb(34, 19, 170);;
+  padding: 6px;
+  width: 80px;
+  margin-top: 14px;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 13px;
+  margin-left: 8px;
+  height: 34px;
+  cursor: pointer;
+  font-family: sans-serif;
+  color: rgb(34, 19, 170);;
+  font-weight: 700;
+}
+.outerline-qualified:hover {
+  background-color: rgb(34, 19, 170);;
+  color: #fff;
+}
+p.Showing-profile-title {
+  font-size: 14px;
+  margin-top: 16px;
+  color: #010f25bd;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+.Recommended-outerline {
+  position: absolute;
+  top: 200px;
+  padding: 2px;
+  text-align: center;
+  width: 94px;
+  height: 20px;
+  cursor: pointer;
+  margin-left: 96px;
+  /* margin: 10px; */
+  color: #fff;
+  background-color: #22913b;
+  font-size: 10px;
+  border-radius: 5px;
+  border: 1px solid green;
+}
+
+//
+:where(.css-dev-only-do-not-override-m4timi).ant-layout .ant-layout-sider {
+  position: relative;
+  min-width: 0;
+  background: #fff !important;
+  transition: all 0.2s, background 0s;
+}
+:where(.css-dev-only-do-not-override-m4timi).ant-menu-dark, :where(.css-dev-only-do-not-override-m4timi).ant-menu-dark>.ant-menu {
+  color: #9b3636(181 38 38 / 65%);
+  background: #fff;
+  /* color: blue; */
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+:where(.css-dev-only-do-not-override-m4timi).ant-menu-dark .ant-menu-item, :where(.css-dev-only-do-not-override-m4timi).ant-menu-dark>.ant-menu .ant-menu-item, :where(.css-dev-only-do-not-override-m4timi).ant-menu-dark .ant-menu-submenu-title, :where(.css-dev-only-do-not-override-m4timi).ant-menu-dark>.ant-menu .ant-menu-submenu-title {
+  color: rgb(34, 19, 170);
+}
+li.ant-menu-item.ant-menu-item-selected {
+  background-color: #d9e9f9;
+}
