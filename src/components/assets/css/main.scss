@@ -374,7 +374,7 @@ p.Showing-profile-title {
 }
 :where(.css-dev-only-do-not-override-m4timi).ant-menu-dark, :where(.css-dev-only-do-not-override-m4timi).ant-menu-dark>.ant-menu {
   color: #9b3636(181 38 38 / 65%);
-  background: #fff;
+  background: #fff !important;
   /* color: blue; */
 }
 a {
@@ -386,5 +386,8 @@ a {
   color: rgb(34, 19, 170);
 }
 li.ant-menu-item.ant-menu-item-selected {
-  background-color: #d9e9f9;
+  background-color: #d9e9f9 !important;
+}
+.ant-layout-sider-children {
+  background-color: #fff !important;
 }
